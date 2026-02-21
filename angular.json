@@ -63,10 +63,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "kylianjulia:build:production"
+              "buildTarget": "louisecabrolier:build:production"
             },
             "development": {
-              "buildTarget": "kylianjulia:build:development"
+              "buildTarget": "louisecabrolier:build:development"
             }
           },
           "defaultConfiguration": "development"
