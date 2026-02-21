@@ -1,8 +1,8 @@
-# Kylianjulia
+# LouiseCabrolier
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-Site web personnel de Kylian JULIA ([kylianjulia.fr](https://kylianjulia.fr/)) répertoriant les compétences mais également les projets et un blog.
+Site web personnel de Louise CABROLIER ([kylianjulia.fr](https://kylianjulia.fr/)) répertoriant les compétences mais également les projets et un blog.
 
 Ce projet a été généré en utilisant [Angular CLI](https://github.com/angular/angular-cli) version 21.1.4.
 
@@ -47,4 +47,4 @@ Ce projet n'est soumis à aucune license. Copyright (c) 2025 Kylian JULIA.
 
 ## Auteur
 
-Développé par [Kylian JULIA](https://kylianjulia.fr/).
+Développé par [Louise CABROLIER](https://kylianjulia.fr/).
